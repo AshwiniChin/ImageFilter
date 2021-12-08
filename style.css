@@ -1,0 +1,33 @@
+
+body{
+      text-align: center;
+      background-color: rgb(243, 194, 177);
+}
+h1{
+      background-color: rgb(247, 137, 201);
+      border-radius: 10px;
+      padding: 10px;
+      box-shadow: 5px 5px 18px rgb(247, 37, 37);
+}
+h1:hover{
+      background-color: rgb(132, 63, 243);
+}
+label{
+    color:indianred;
+    font-size: 22px;
+    font-weight: bold;
+}
+canvas {
+  	border:1px solid black;
+    margin-top: 100px;
+}
+button{  
+   
+      font-size: 15px;
+      background-color: rgb(157, 93, 241);
+      color:white;
+      padding:5px;
+      border-radius: 5px;
+      border: none;
+      font-family: 'Times New Roman';
+}
